@@ -14,7 +14,7 @@ namespace SortingAssignment
         {
             Generate gen;
             List listOfSize;
-            int[] sizes = { 10, 50, 100, 500, 1000, 2500, 5000, 7500, 10000, 15000, 20000, 30000, 50000 };
+            int[] sizes = { 10, 50, 100, 500, 1000, 2500/*, 5000, 7500, 10000, 15000, 20000, 30000, 50000*/ };
 
             //Test all algorithms on a randomly sorted array
             Console.WriteLine("Randomly sorted arrays:");
